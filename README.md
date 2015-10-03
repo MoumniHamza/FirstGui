@@ -8,6 +8,6 @@ create the menu with an exit subfile that exits when you click on it.
 
 Feel free to fork to the repo or go ahead and check my other repos.
 
-Thank you,
+Thank you for viewing this tutorial,
 
 Hamza
